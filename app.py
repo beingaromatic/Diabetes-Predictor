@@ -18,9 +18,9 @@ def predict():
     prediction = model.predict(final_features)
 
     if prediction == 1:
-        pred = " 🥲 You have Diabetes, please consult a Doctor."
+        pred = " You have Diabetes, please consult a Doctor."
     elif prediction == 0:
-        pred = " 😚 You don't have Diabetes."
+        pred = " You don't have Diabetes."
     output = pred
 
     return render_template('index.html', prediction_text='{}'.format(output))
