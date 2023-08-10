@@ -70,7 +70,7 @@ body{
 
 
 
-.form input[type="text"] {
+.form input[type="number"] {
 
   width: 400px;
   padding: 10px;
