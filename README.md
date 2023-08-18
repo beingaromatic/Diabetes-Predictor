@@ -1,6 +1,7 @@
 # Diabetes-Predictor
 
-⚠️ .ipynb file may take time to load, retry if it gives error 
+⚠️ .ipynb file may take time to load, retry if it gives error
+
 Live here : https://diabetes-predictor-beta.onrender.com/ 
 
 example case : Glucose - 153, Insulin- 192, BMI - 29, Age - 33
